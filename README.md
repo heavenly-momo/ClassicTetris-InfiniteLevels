@@ -1,4 +1,4 @@
-## Classic Tetris: Infinite Levels ~ An FCEUX script by momotsuki vǫl'gureschnxyzxyz
+### Classic Tetris: Infinite Levels ~ An FCEUX script by momotsuki vǫl'gureschnxyzxyz
 
 This script alters Tetris' A-Type mode such that rather than
 rolling over to level 0 after level 255, it continues
